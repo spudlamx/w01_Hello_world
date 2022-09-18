@@ -5,7 +5,7 @@ Simple hello world program to get accustomed to git and github.
 Program that prints the words "Hello world"
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/UnF-ZDWDGIk)
 
 # Development Environment
 
@@ -15,5 +15,5 @@ Python
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube](https://youtu.be/UnF-ZDWDGIk)
+* [Github](https://github.com/spudlamx/w01_Hello_world/blob/main/README.md)
